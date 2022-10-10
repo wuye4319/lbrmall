@@ -27,7 +27,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### git
-
-只是利用Git进行自我管理，不上传
